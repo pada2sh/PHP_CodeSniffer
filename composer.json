@@ -1,12 +1,12 @@
 {
-    "name": "squizlabs/php_codesniffer",
+    "name": "pada2sh/php_codesniffer",
     "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
     "type": "library",
     "keywords": [
         "phpcs",
         "standards"
     ],
-    "homepage": "http://www.squizlabs.com/php-codesniffer",
+    "homepage": "https://github.com/pada2sh/PHP_CodeSniffer",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -15,9 +15,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/squizlabs/PHP_CodeSniffer/issues",
-        "wiki": "https://github.com/squizlabs/PHP_CodeSniffer/wiki",
-        "source": "https://github.com/squizlabs/PHP_CodeSniffer"
+        "issues": "https://github.com/pada2sh/PHP_CodeSniffer/issues",
+        "wiki": "https://github.com/pada2sh/PHP_CodeSniffer/wiki",
+        "source": "https://github.com/pada2sh/PHP_CodeSniffer"
     },
     "extra": {
         "branch-alias": {
